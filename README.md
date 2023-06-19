@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pronto Soccorso Bot](https://github.com/roccomalvaso/PS-bot-telegram)
 
-- 🌱 I’m currently learning **Python, Javascript, React.js**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **malvasorocco3@gmail.com**
 
